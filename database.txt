@@ -1,0 +1,200 @@
+1,Pengembangan Sistem Informasi untuk Pendidikan,Eka,2023,Tesis
+2,Analisis Big Data di Rumah Sakit,Budi,2018,Konferensi
+3,Pengembangan AI untuk Pendidikan,Joko,2020,Konferensi
+4,Penerapan Teknologi di Lingkungan Kerja,Sandi,2024,Jurnal
+5,Kajian UMKM di Lingkungan Kerja,Dewi,2021,Makalah
+6,Analisis Sains di Lingkungan Kerja,Citra,2023,Tesis
+7,Kajian UMKM untuk Pendidikan,Lina,2021,Makalah
+8,Analisis Big Data di Indonesia,Fajar,2022,Makalah
+9,Analisis Sistem Informasi untuk Pendidikan,Eka,2024,Konferensi
+10,Pengembangan Ekonomi di Rumah Sakit,Rani,2020,Jurnal
+11,Kajian Teknologi di Indonesia,Rani,2019,Konferensi
+12,Implementasi Sains pada UMKM,Hadi,2023,Tesis
+13,Pengembangan IoT di Rumah Sakit,Putri,2023,Makalah
+14,Kajian IoT pada UMKM,Rani,2024,Konferensi
+15,Pengembangan IoT pada UMKM,Maman,2022,Makalah
+16,Pengembangan AI di Indonesia,Omar,2021,Makalah
+17,Penerapan Big Data di Rumah Sakit,Budi,2019,Tesis
+18,Implementasi Medis untuk Pendidikan,Nina,2022,Makalah
+19,Pengembangan Teknologi pada UMKM,Hadi,2022,Konferensi
+20,Kajian Big Data di Indonesia,Gina,2020,Jurnal
+21,Kajian Medis pada UMKM,Wawan,2020,Konferensi
+22,Penerapan Teknologi untuk Pendidikan,Eka,2018,Tesis
+23,Implementasi IoT di Lingkungan Kerja,Hadi,2023,Makalah
+24,Implementasi Teknologi di Lingkungan Kerja,Citra,2020,Jurnal
+25,Kajian Medis di Indonesia,Budi,2018,Jurnal
+26,Penerapan Sistem Informasi pada UMKM,Eka,2018,Jurnal
+27,Pengembangan Big Data di Rumah Sakit,Wawan,2022,Konferensi
+28,Analisis Sistem Informasi pada UMKM,Hadi,2023,Tesis
+29,Implementasi Blockchain di Rumah Sakit,Gina,2023,Jurnal
+30,Analisis UMKM pada UMKM,Budi,2019,Makalah
+31,Analisis AI di Indonesia,Dewi,2019,Makalah
+32,Kajian Blockchain di Rumah Sakit,Kiki,2018,Jurnal
+33,Implementasi Sistem Informasi pada UMKM,Indah,2021,Tesis
+34,Pengembangan Ekonomi untuk Pendidikan,Rani,2020,Jurnal
+35,Analisis Ekonomi pada UMKM,Dewi,2024,Jurnal
+36,Pengembangan Big Data pada UMKM,Wawan,2020,Makalah
+37,Implementasi Sains di Rumah Sakit,Dewi,2024,Jurnal
+38,Penerapan UMKM untuk Pendidikan,Qori,2018,Jurnal
+39,Analisis AI untuk Pendidikan,Lina,2019,Tesis
+40,Analisis Sains di Indonesia,Fajar,2024,Makalah
+41,Pengembangan Medis di Lingkungan Kerja,Eka,2020,Makalah
+42,Analisis IoT pada UMKM,Putri,2022,Tesis
+43,Penerapan AI untuk Pendidikan,Qori,2023,Makalah
+44,Penerapan Ekonomi di Indonesia,Eka,2019,Jurnal
+45,Pengembangan Sistem Informasi di Indonesia,Maman,2023,Konferensi
+46,Kajian Ekonomi di Rumah Sakit,Dewi,2018,Jurnal
+47,Pengembangan Sistem Informasi pada UMKM,Joko,2024,Tesis
+48,Pengembangan Sains di Rumah Sakit,Nina,2024,Konferensi
+49,Penerapan Blockchain di Lingkungan Kerja,Indah,2024,Tesis
+50,Implementasi Sains untuk Pendidikan,Andi,2018,Tesis
+51,Pengembangan Big Data pada UMKM,Rani,2018,Tesis
+52,Pengembangan Medis di Indonesia,Sandi,2020,Konferensi
+53,Kajian Big Data untuk Pendidikan,Qori,2018,Jurnal
+54,Penerapan UMKM pada UMKM,Gina,2021,Jurnal
+55,Analisis Blockchain pada UMKM,Joko,2022,Konferensi
+56,Analisis Ekonomi untuk Pendidikan,Qori,2020,Jurnal
+57,Implementasi Sains di Lingkungan Kerja,Indah,2022,Tesis
+58,Kajian Ekonomi di Indonesia,Kiki,2023,Konferensi
+59,Implementasi Sains pada UMKM,Fajar,2020,Jurnal
+60,Analisis Big Data di Rumah Sakit,Eka,2024,Tesis
+61,Analisis Sains di Indonesia,Wawan,2021,Konferensi
+62,Kajian AI di Indonesia,Hadi,2022,Tesis
+63,Penerapan IoT di Rumah Sakit,Lina,2020,Konferensi
+64,Pengembangan Blockchain di Rumah Sakit,Lina,2021,Tesis
+65,Implementasi IoT untuk Pendidikan,Hadi,2024,Jurnal
+66,Analisis AI untuk Pendidikan,Dewi,2023,Jurnal
+67,Pengembangan Big Data pada UMKM,Eka,2024,Tesis
+68,Kajian UMKM di Indonesia,Putri,2021,Tesis
+69,Analisis IoT di Rumah Sakit,Wawan,2023,Makalah
+70,Kajian AI di Indonesia,Citra,2018,Tesis
+71,Implementasi Teknologi di Indonesia,Nina,2022,Tesis
+72,Implementasi AI pada UMKM,Indah,2024,Konferensi
+73,Kajian AI pada UMKM,Budi,2021,Jurnal
+74,Penerapan Big Data untuk Pendidikan,Kiki,2020,Konferensi
+75,Implementasi Ekonomi di Lingkungan Kerja,Budi,2020,Konferensi
+76,Analisis Sistem Informasi untuk Pendidikan,Qori,2020,Jurnal
+77,Pengembangan Teknologi di Rumah Sakit,Kiki,2023,Tesis
+78,Implementasi Sains pada UMKM,Lina,2021,Tesis
+79,Analisis Sains di Indonesia,Indah,2018,Tesis
+80,Penerapan Sains di Rumah Sakit,Nina,2021,Jurnal
+81,Implementasi UMKM di Lingkungan Kerja,Eka,2024,Makalah
+82,Kajian Medis di Indonesia,Eka,2022,Konferensi
+83,Implementasi Medis pada UMKM,Eka,2019,Tesis
+84,Kajian Medis untuk Pendidikan,Fajar,2018,Jurnal
+85,Kajian Ekonomi untuk Pendidikan,Nina,2018,Jurnal
+86,Kajian AI di Lingkungan Kerja,Rani,2018,Jurnal
+87,Penerapan AI di Lingkungan Kerja,Qori,2022,Tesis
+88,Penerapan UMKM di Indonesia,Hadi,2020,Tesis
+89,Kajian Sistem Informasi di Rumah Sakit,Wawan,2018,Konferensi
+90,Pengembangan AI untuk Pendidikan,Gina,2019,Jurnal
+91,Implementasi UMKM di Indonesia,Kiki,2024,Jurnal
+92,Analisis Ekonomi di Lingkungan Kerja,Gina,2021,Konferensi
+93,Kajian Ekonomi di Lingkungan Kerja,Joko,2019,Konferensi
+94,Analisis UMKM pada UMKM,Indah,2018,Jurnal
+95,Implementasi IoT di Lingkungan Kerja,Rani,2021,Makalah
+96,Implementasi Teknologi di Lingkungan Kerja,Citra,2018,Tesis
+97,Implementasi Big Data di Lingkungan Kerja,Indah,2020,Makalah
+98,Penerapan Big Data di Indonesia,Fajar,2022,Konferensi
+99,Penerapan IoT pada UMKM,Omar,2024,Tesis
+100,Penerapan IoT pada UMKM,Kiki,2022,Tesis
+101,Implementasi Blockchain pada UMKM,Hadi,2021,Konferensi
+102,Penerapan Big Data di Lingkungan Kerja,Nina,2021,Tesis
+103,Analisis Ekonomi di Rumah Sakit,Citra,2023,Makalah
+104,Implementasi Teknologi di UMKM,Lina,2024,Jurnal
+105,Pengembangan Big Data di Pendidikan,Putri,2023,Konferensi
+106,Penerapan AI pada Rumah Sakit,Kiki,2019,Jurnal
+107,Analisis Teknologi di Indonesia,Eka,2020,Konferensi
+108,Penerapan IoT pada Rumah Sakit,Hadi,2021,Tesis
+109,Analisis AI di Lingkungan Kerja,Putri,2023,Jurnal
+110,Implementasi Big Data pada Pendidikan,Budi,2021,Konferensi
+111,Analisis Teknologi untuk Pendidikan,Gina,2022,Jurnal
+112,Penerapan IoT pada Pendidikan,Putri,2024,Tesis
+113,Kajian Ekonomi untuk Rumah Sakit,Joko,2020,Jurnal
+114,Implementasi AI di Lingkungan Kerja,Rani,2022,Konferensi
+115,Analisis Big Data untuk UMKM,Lina,2023,Tesis
+116,Pengembangan IoT untuk UMKM,Omar,2022,Konferensi
+117,Penerapan Blockchain pada Pendidikan,Gina,2024,Jurnal
+118,Kajian Blockchain di Lingkungan Kerja,Fajar,2023,Tesis
+119,Implementasi Big Data di Lingkungan Kerja,Maman,2021,Konferensi
+120,Penerapan AI pada UMKM,Citra,2022,Jurnal
+121,Analisis IoT untuk Pendidikan,Sandi,2024,Tesis
+122,Pengembangan Big Data pada Rumah Sakit,Dewi,2021,Jurnal
+123,Implementasi Ekonomi pada UMKM,Wawan,2024,Konferensi
+124,Analisis Blockchain di Lingkungan Kerja,Rani,2019,Jurnal
+125,Penerapan Big Data pada Teknologi,Nina,2020,Makalah
+126,Kajian Sains di Indonesia,Hadi,2023,Konferensi
+127,Penerapan Teknologi di Rumah Sakit,Sandi,2024,Jurnal
+128,Implementasi AI di Rumah Sakit,Lina,2021,Tesis
+129,Pengembangan IoT di Lingkungan Kerja,Kiki,2020,Konferensi
+130,Analisis Sistem Informasi di UMKM,Fajar,2024,Tesis
+131,Implementasi AI di Pendidikan,Budi,2023,Konferensi
+132,Analisis Teknologi untuk UMKM,Eka,2021,Makalah
+133,Penerapan IoT di Rumah Sakit,Indah,2020,Konferensi
+134,Implementasi Sains di Rumah Sakit,Citra,2022,Tesis
+135,Analisis Big Data di Lingkungan Kerja,Rani,2024,Jurnal
+136,Implementasi Blockchain di UMKM,Hadi,2021,Konferensi
+137,Penerapan Sains untuk UMKM,Joko,2024,Tesis
+138,Analisis AI di Rumah Sakit,Eka,2022,Makalah
+139,Implementasi Teknologi pada UMKM,Lina,2023,Konferensi
+140,Penerapan Blockchain di UMKM,Wawan,2022,Tesis
+141,Kajian Ekonomi di Rumah Sakit,Hadi,2019,Jurnal
+142,Implementasi IoT di Indonesia,Kiki,2023,Konferensi
+143,Analisis Teknologi di Rumah Sakit,Indah,2020,Jurnal
+144,Penerapan Sains pada Pendidikan,Dewi,2023,Tesis
+145,Implementasi Blockchain untuk Pendidikan,Sandi,2022,Jurnal
+146,Analisis Sains untuk UMKM,Omar,2021,Tesis
+147,Kajian AI pada Pendidikan,Wawan,2022,Konferensi
+148,Implementasi Teknologi pada Pendidikan,Lina,2023,Tesis
+149,Analisis Big Data untuk Rumah Sakit,Fajar,2021,Jurnal
+150,Penerapan IoT di Indonesia,Rani,2023,Konferensi
+151,Pengembangan Sistem Informasi untuk UMKM,Sandi,2022,Jurnal
+152,Kajian Big Data di Rumah Sakit,Putri,2024,Tesis
+153,Analisis Ekonomi di Rumah Sakit,Kiki,2020,Tesis
+154,Penerapan Big Data di Lingkungan Kerja,Citra,2023,Konferensi
+155,Implementasi Blockchain untuk UMKM,Omar,2024,Jurnal
+156,Penerapan Teknologi di Rumah Sakit,Hadi,2019,Makalah
+157,Analisis AI di Lingkungan Kerja,Kiki,2024,Konferensi
+158,Penerapan IoT pada Rumah Sakit,Fajar,2024,Jurnal
+159,Analisis Sains di Pendidikan,Rani,2020,Konferensi
+160,Implementasi Teknologi di UMKM,Putri,2024,Jurnal
+161,Implementasi Big Data pada Rumah Sakit,Citra,2023,Konferensi
+162,Penerapan AI di Rumah Sakit,Joko,2020,Makalah
+163,Kajian Blockchain di UMKM,Sandi,2024,Konferensi
+164,Penerapan Sains pada UMKM,Putri,2021,Jurnal
+165,Analisis Big Data untuk UMKM,Hadi,2023,Tesis
+166,Implementasi Blockchain di UMKM,Indah,2022,Jurnal
+167,Kajian IoT pada Pendidikan,Eka,2024,Konferensi
+168,Penerapan Blockchain pada UMKM,Dewi,2022,Jurnal
+169,Analisis Sains di UMKM,Lina,2023,Konferensi
+170,Implementasi Big Data pada Pendidikan,Hadi,2024,Jurnal
+171,Penerapan AI pada UMKM,Eka,2023,Tesis
+172,Analisis Blockchain pada Rumah Sakit,Kiki,2020,Tesis
+173,Kajian Ekonomi pada UMKM,Lina,2021,Makalah
+174,Penerapan IoT di Pendidikan,Fajar,2022,Konferensi
+175,Implementasi Big Data untuk Rumah Sakit,Omar,2024,Jurnal
+176,Penerapan IoT pada Rumah Sakit,Indah,2024,Tesis
+177,Analisis Blockchain untuk Pendidikan,Kiki,2023,Jurnal
+178,Implementasi Teknologi untuk Rumah Sakit,Hadi,2021,Konferensi
+179,Analisis Big Data di Indonesia,Indah,2020,Jurnal
+180,Penerapan Blockchain di Lingkungan Kerja,Lina,2021,Tesis
+181,Implementasi IoT untuk Rumah Sakit,Rani,2020,Makalah
+182,Penerapan Teknologi untuk UMKM,Fajar,2021,Konferensi
+183,Analisis AI di Rumah Sakit,Sandi,2020,Jurnal
+184,Penerapan Big Data untuk UMKM,Rani,2023,Konferensi
+185,Implementasi Sains pada Rumah Sakit,Putri,2020,Jurnal
+186,Analisis Teknologi untuk UMKM,Joko,2022,Tesis
+187,Penerapan Big Data untuk Pendidikan,Eka,2024,Jurnal
+188,Implementasi Blockchain di Lingkungan Kerja,Fajar,2024,Jurnal
+189,Analisis Sains di Rumah Sakit,Omar,2020,Tesis
+190,Penerapan AI untuk Rumah Sakit,Lina,2021,Makalah
+191,Implementasi IoT di Indonesia,Rani,2022,Jurnal
+192,Analisis Big Data di Rumah Sakit,Gina,2021,Konferensi
+193,Implementasi Blockchain pada Pendidikan,Indah,2023,Jurnal
+194,Analisis Teknologi pada Pendidikan,Hadi,2024,Konferensi
+195,Penerapan Sains pada UMKM,Sandi,2023,Konferensi
+196,Implementasi AI pada Pendidikan,Fajar,2024,Jurnal
+197,Penerapan Blockchain di Rumah Sakit,Budi,2021,Konferensi
+198,Analisis Sains di UMKM,Lina,2024,Jurnal
+199,Penerapan Big Data pada Pendidikan,Nina,2021,Konferensi
+200,Implementasi IoT di UMKM,Sandi,2023,Jurnal
